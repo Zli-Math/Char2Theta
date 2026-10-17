@@ -1,0 +1,4 @@
+{
+  "folders": [{"path": "."}],
+  "extensions": {"recommendations": ["leanprover.lean4"]}
+}

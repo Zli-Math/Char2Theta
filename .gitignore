@@ -1,0 +1,5 @@
+.lake/
+*.olean
+*.ilean
+.DS_Store
+/docs/BUILD_LOG.txt
